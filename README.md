@@ -13,10 +13,7 @@ This project was built to strengthen Python fundamentals and gain hands-on exper
 - 👋 Greets users with a welcome message
 - ⏰ Displays the current time
 - 📅 Shows the current date
-- 💡 Generates random motivational quotes
-- 🔄 Reverses user-entered text
 - 📜 Maintains and displays chat history
-- ℹ️ Provides chatbot information through an "About" section
 - ❌ Handles unknown commands with a friendly response
 - 🚪 Allows users to exit the chatbot safely
 
@@ -34,15 +31,11 @@ This project was built to strengthen Python fundamentals and gain hands-on exper
 
 - Variables
 - User Input and Output
-- Lists
 - Dictionaries
 - Loops ("while")
 - Conditional Statements ("if", "elif", "else")
-- String Manipulation
-- List Operations
 - Python Modules
 - Basic Rule-Based Artificial Intelligence
-- Command-Line Interface (CLI)
 
 ---
 
@@ -68,8 +61,6 @@ Command| Description
 "hello"| Greets the user
 "time"| Displays the current time
 "date"| Displays today's date
-"quote"| Shows a random motivational quote
-"reverse"| Reverses the entered text
 "history"| Displays previous user inputs
 "about"| Displays chatbot information
 "help"| Shows the list of available commands
@@ -92,12 +83,11 @@ Smart-Chatbot/
 - Include calculator functionality
 - Add weather information using APIs
 - Support voice commands
-- Integrate AI-powered responses using NLP
 
 ---
 
 👩‍💻 Author
 
-Kavya
+Jammu Kavya
 
-This project was developed as part of my Python learning journey to strengthen programming fundamentals and build practical projects for my software engineering portfolio.
+Developed as part of my AI Internship to gain hands-on experience in Python programming and rule-based AI. This project demonstrates the implementation of an interactive chatbot using core Python concepts.
